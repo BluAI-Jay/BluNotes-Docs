@@ -2,7 +2,7 @@ Published rates associated with ICD-10 codes, but they vary depending on the pay
 
 ## Types of Published Rates
 
-###1. Medicare Fee Schedule Rates
+### 1. Medicare Fee Schedule Rates
 
 Physician Fee Schedule: Medicare publishes rates for procedures (CPT codes) but not directly for ICD-10 diagnosis codes
 Hospital Rates (DRG): Diagnosis-Related Groups use ICD-10 codes to determine hospital payment rates
@@ -38,4 +38,5 @@ Key Point: ICD-10 diagnosis codes themselves don't have direct payment rates. In
 
 Justify medical necessity for procedures that DO have rates
 Map to payment systems like DRGs or HCCs that determine reimbursement
+
 Influence risk adjustment payments
